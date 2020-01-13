@@ -1,11 +1,11 @@
 # Site settings
 author: Paul von Hagen
-title: 
+title: Paul Learns It All
 header-img: img/home-bg.png
 email: pvonhagen26@gmail.com
 copyright_name: Paul von Hagen
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Follow my journey of trying learn everything about modern programming!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  paulsvh
