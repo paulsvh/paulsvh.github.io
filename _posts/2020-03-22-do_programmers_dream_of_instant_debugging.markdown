@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Do programmers dream of instant debugging?"
+title:      "Do programmers dream of electric debugging?"
 date:       2020-03-22 22:31:42 -0400
 permalink:  do_programmers_dream_of_instant_debugging
 ---
