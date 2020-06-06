@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Understanding foundations by building from the ground up."
-date:       2020-05-27 03:14:41 +0000
+date:       2020-05-26 23:14:42 -0400
 permalink:  understanding_foundations_by_building_from_the_ground_up
 ---
 
 
-I'll be honest, I don't think I really had a great grasp on Sinatra routing, MVC, or forms all the way until working on my Sinatra portfolio project. Maybe it was the coronavirus-related turmoil enveloping everything, maybe it was trying to keep up with work, school, and a busy job hunt, maybe it was a turbid combination of all multipl factors, but nothing really clicked into place for me until I sat down and had to build it all out myself front to back. And that brought me to a realization, that's relative to how I've always learned best.
+I'll be honest, I don't think I really had a great grasp on Sinatra routing, MVC, or forms all the way until working on my Sinatra portfolio project. Maybe it was the coronavirus-related turmoil enveloping everything, maybe it was trying to keep up with work, school, and a busy job hunt, maybe it was a turbid combination of all multiple factors, but nothing really clicked into place for me until I sat down and had to build it all out myself front to back. And that brought me to a realization, that's relative to how I've always learned best.
 
 Everyone has a different learning style, I think it comes down to how your brain is wired. Some people are visual, some are hands on, some really need the whole picture, some like to break everything down into pieces. Myself personally, I like to be able to see the big connected picture, learn the individual pieces, and then get down to building them all together to recreate said picture. I've never learned well without having the grander scope of what I'm learning, it's been that way for as long as I can remember. Funny thing about habits though, sometimes you get so used to them you forget you even have them, which brings me to a near mental breakdown towards the end of this Sinatra section.
 
