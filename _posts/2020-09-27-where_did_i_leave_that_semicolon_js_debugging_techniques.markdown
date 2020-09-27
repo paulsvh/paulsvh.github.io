@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Where did I leave that semicolon...JS Debugging Techniques"
-date:       2020-09-27 17:29:46 +0000
+date:       2020-09-27 13:29:47 -0400
 permalink:  where_did_i_leave_that_semicolon_js_debugging_techniques
 ---
 
