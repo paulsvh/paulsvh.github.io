@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Where did I leave that semicolon...JS Debugging Techniques"
+title:      "Where did I leave that semicolon... JS Debugging Techniques"
 date:       2020-09-27 13:29:47 -0400
 permalink:  where_did_i_leave_that_semicolon_js_debugging_techniques
 ---
@@ -38,7 +38,7 @@ Arguably one of the most powerful tools in the JS toolkit is the debugger statem
 }`
 The debugger will pause all execution in your script source where it's at. From here, you can jump into your console which will be in scope right where you left your debugger! You can use this to test variable assignments, test out a function, and more, right from your console! If you have a function or a fetch request that isn't working and you're getting stumped, pop a debugger in to break it all down and get a deeper look.
 
-#### Of course, there are plenty more debugging tools for JavaScript development, but with a good solid understanding of these basics you're well on your way to becoming an exterminator-level debugger!
+### Of course, there are plenty more debugging tools for JavaScript development, but with a good solid understanding of these basics you're well on your way to becoming an exterminator-level debugger!
 
 
 
