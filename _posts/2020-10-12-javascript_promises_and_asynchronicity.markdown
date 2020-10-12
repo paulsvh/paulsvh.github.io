@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JavaScript Promises and Asynchronicity"
-date:       2020-10-12 21:19:31 +0000
+date:       2020-10-12 17:19:32 -0400
 permalink:  javascript_promises_and_asynchronicity
 ---
 
