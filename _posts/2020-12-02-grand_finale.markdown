@@ -56,6 +56,6 @@ Clicking the button will, using our setCounter function that we've made availabl
 
 Hopefully this short breakdown gives you an idea of the simplicity and ease supplied with the useState hook, and the benefits of it versus the traditional class-based method way. While there are obviously situations where a class-based component makes the most sense, this new hook gives us the ability to add state to simple functional components, speeding up the creation of simple and clean components. While useState is certainly very important, it's not the only hook that was introduced in React 16.8, there are more (like the extremely useful useEffect and useContext), and React even allows you to build your own hooks to extract component logic into reusable functions!
 
-Check out more information on React hooks at the official React documentation [here](https://reactjs.org/docs/hooks-intro.html), and happy hookin!
+You can check out more information on React hooks at the official React documentation [here](https://reactjs.org/docs/hooks-intro.html), happy front-ending!
 
 
